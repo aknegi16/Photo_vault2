@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "968391573422",
+    "firebase_url": "https://photovault2-af58b.firebaseio.com",
+    "project_id": "photovault2-af58b",
+    "storage_bucket": "photovault2-af58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968391573422:android:a64d303ac9be9946",
+        "android_client_info": {
+          "package_name": "com.example.akashn.photo_vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968391573422-dp7staklq7d4bqp9prupo3ne9miju5n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akashn.photo_vault",
+            "certificate_hash": "b964f7fbeb62d98ddec173e2cb78cfdb118c4407"
+          }
+        },
+        {
+          "client_id": "968391573422-hk1tc2kbl5mkk1u9j895mpaiueg3p8lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1z1Jk9DjfO7sfG3yDk1PctJGOi9aTcM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968391573422-hk1tc2kbl5mkk1u9j895mpaiueg3p8lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

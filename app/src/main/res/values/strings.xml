@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo_vault</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="action_settings">Settings</string>
+</resources>
